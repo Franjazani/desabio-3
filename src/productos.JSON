@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "Vino Tinto Manos Negras",
+        "Price": 3000,
+        "Id": 1
+    },
+    {
+        "Title": "Vino Blanco Zaha",
+        "Price": 2600,
+        "Id": 2
+    },
+    {
+        "Title": "Vino Rose Petit Lou",
+        "Price": 1975,
+        "Id": 3
+    }
+]
